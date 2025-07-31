@@ -40,7 +40,7 @@ public class Car {
 		return "Car [make=" + make + ", model=" + model + ", color=" + color + ", price=" + price + "]";
 	}
 	
-	public void print() {
+	public void printCar() {
 		System.out.println(this);
 	}
 	
