@@ -1,4 +1,4 @@
-package secondTask;
+package SecondTask;
 
 public class Application {
 
